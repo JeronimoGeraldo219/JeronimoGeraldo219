@@ -2,10 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jer%C3%B4nimo-geraldo-101a73230/)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jeronimogeraldo5815)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechPlus30370)
 
 
-![Jerônimo GitHub stats](https://github-readme-stats.vercel.app/api?username=jeronimoGeraldo219&show_icons=true&theme=radical)
+![Jerônimo GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronimoGeraldo219&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeronimoGeraldo219)](https://github.com/JeronimoGeraldo219/github-readme-stats)
 
