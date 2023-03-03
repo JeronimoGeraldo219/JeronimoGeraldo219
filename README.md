@@ -1,4 +1,5 @@
-### Olá, Eu me chamo Jerônimo Geraldo! 
+<p align="center"><a href="https://github.com/JeronimoGeraldo219"><img width="100%" alt="Hello, I'm Jerônimo Geraldo!" src="Opa.png" /></a></p>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jer%C3%B4nimo-geraldo-101a73230/)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -22,3 +23,4 @@
 ## Mais informações
 
 - [Meu email para contato](jeronimogeraldo219@gmail.com)
+
