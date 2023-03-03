@@ -5,9 +5,9 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechPlus30370)
 
 
-![Jerônimo GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronimoGeraldo219&show_icons=true&theme=radical)
+![Jerônimo GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronimoGeraldo219&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeronimoGeraldo219)](https://github.com/JeronimoGeraldo219/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeronimoGeraldo219&layout=compact)](https://github.com/JeronimoGeraldo219/github-readme-stats)
 
 ## Tecnologias que eu utilizo 
 
