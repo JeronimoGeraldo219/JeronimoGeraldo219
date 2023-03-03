@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/JeronimoGeraldo219"><img width="100%" alt="Hello, I'm Jerônimo Geraldo!" src="Opa.png" /></a></p>
+<p  href="https://github.com/JeronimoGeraldo219"><img width="100%" alt="Hello, I'm Jerônimo Geraldo!" src="Opa.png"> </p>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jer%C3%B4nimo-geraldo-101a73230/)
