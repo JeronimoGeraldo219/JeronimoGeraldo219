@@ -1,4 +1,5 @@
-# Hello!, my name is Jerônimo Geraldo!
+
+<p align="center"><a href="https://github.com/JeronimoGeraldo219"><img width="80%" alt="Helo! My name is Jerônimo Geraldo" src="https://user-images.githubusercontent.com/104932755/222803300-ac830c64-4465-4a7d-af4c-4946969b3e58.png" /></a></p>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jer%C3%B4nimo-geraldo-101a73230/)
@@ -23,4 +24,5 @@
 ## Mais informações
 
 - [Meu email para contato](jeronimogeraldo219@gmail.com)
+
 
